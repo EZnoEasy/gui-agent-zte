@@ -1,0 +1,16 @@
+# WorkBuddy internal
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+
+# Conversation logs
+turn*.md
+
+# Submission zips (keep only the best version source)
+submission*.zip
+
+# IDE
+.vscode/
+.idea/
